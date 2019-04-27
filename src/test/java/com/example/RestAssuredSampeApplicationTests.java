@@ -1,3 +1,5 @@
+//https://beenlife.tistory.com/34
+
 package com.example;
 
 import org.junit.Test;
@@ -18,5 +20,4 @@ public class RestAssuredSampeApplicationTests {
         .then().statusCode(200);
 	}
 
-	
 }
